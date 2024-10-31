@@ -1,0 +1,22 @@
+.about-section {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .about-section h2 {
+    font-size: 2.5rem;
+  }
+  
+  .about-section p {
+    margin: 1rem 0;
+  }
+  
+  .social-icons {
+    margin-top: 1rem;
+  }
+  
+  .social-icons i {
+    font-size: 1.5rem;
+    margin: 0 0.5rem;
+  }
+  

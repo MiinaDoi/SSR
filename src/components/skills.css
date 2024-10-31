@@ -1,0 +1,19 @@
+.skills-section {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+  
+  .skills-list span {
+    border: 1px solid black;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
